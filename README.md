@@ -17,19 +17,19 @@
 ## 🕹️ PLAYER PROFILE
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                  PLAYER INFORMATION                      ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  PLAYER      : VISHNU KUMAR M                            ║
-║  CLASS       : HR & OPERATIONS                           ║
-║  LEVEL       : MBA                                       ║
-║  LOCATION    : COIMBATORE, INDIA                         ║
-║                                                          ║
-║  SPECIALITY  : PEOPLE • PROCESS • OPERATIONS             ║
-║  STATUS      : 🟢 OPEN TO OPPORTUNITIES                  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+                                ╔══════════════════════════════════════════════════════════╗
+                                ║                  PLAYER INFORMATION                      ║
+                                ╠══════════════════════════════════════════════════════════╣
+                                ║                                                          ║
+                                ║  PLAYER      : VISHNU KUMAR M                            ║
+                                ║  CLASS       : HR & OPERATIONS                           ║
+                                ║  LEVEL       : MBA                                       ║
+                                ║  LOCATION    : COIMBATORE, INDIA                         ║
+                                ║                                                          ║
+                                ║  SPECIALITY  : PEOPLE • PROCESS • OPERATIONS             ║
+                                ║  STATUS      : 🟢 OPEN TO OPPORTUNITIES                  ║
+                                ║                                                          ║
+                                ╚══════════════════════════════════════════════════════════╝
 ```
 
 ## ⚔️ SKILL TREE
@@ -107,40 +107,40 @@ Create a modern digital experience for the food brand and its menu.
 ## 🧠 SPECIAL ABILITIES
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║  ⚡ QUICK LEARNER                                         ║
-║  🎯 PROBLEM SOLVER                                       ║
-║  🧩 PROCESS ORIENTED                                     ║
-║  🤝 TEAM COORDINATION                                    ║
-║  🧘 CALM UNDER PRESSURE                                  ║
-║  🔧 PRACTICAL THINKING                                   ║
-║  🚀 ADAPTABLE                                            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+                                ╔══════════════════════════════════════════════════════════╗
+                                ║                                                          ║
+                                ║  ⚡ QUICK LEARNER                                         ║
+                                ║  🎯 PROBLEM SOLVER                                       ║
+                                ║  🧩 PROCESS ORIENTED                                     ║
+                                ║  🤝 TEAM COORDINATION                                    ║
+                                ║  🧘 CALM UNDER PRESSURE                                  ║
+                                ║  🔧 PRACTICAL THINKING                                   ║
+                                ║  🚀 ADAPTABLE                                            ║
+                                ║                                                          ║
+                                ╚══════════════════════════════════════════════════════════╝
 ```
 
 ## 🎯 CURRENT MISSION
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                     CURRENT MISSION                      ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  CAREER PATH : HR GENERALIST                             ║
-║                                                          ║
-║  FOCUS       : HR Operations                             ║
-║                Recruitment                               ║
-║                Employee Relations                        ║
-║                Training & Development                    ║
-║                HR Administration                         ║
-║                HRMS                                      ║
-║                                                          ║
-║  OBJECTIVE   : Build strong practical HR expertise       ║
-║                and grow into a well-rounded              ║
-║                HR Generalist.                            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+                                ╔══════════════════════════════════════════════════════════╗
+                                ║                     CURRENT MISSION                      ║
+                                ╠══════════════════════════════════════════════════════════╣
+                                ║                                                          ║
+                                ║  CAREER PATH : HR GENERALIST                             ║
+                                ║                                                          ║
+                                ║  FOCUS       : HR Operations                             ║
+                                ║                Recruitment                               ║
+                                ║                Employee Relations                        ║
+                                ║                Training & Development                    ║
+                                ║                HR Administration                         ║
+                                ║                HRMS                                      ║
+                                ║                                                          ║
+                                ║  OBJECTIVE   : Build strong practical HR expertise       ║
+                                ║                and grow into a well-rounded              ║
+                                ║                HR Generalist.                            ║
+                                ║                                                          ║
+                                ╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -152,20 +152,20 @@ Create a modern digital experience for the food brand and its menu.
 `APR 2022 → DEC 2025`
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                    EXPERIENCE STATS                      ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  👥 TEAM SUPPORTED         : UP TO 8 EMPLOYEES           ║
-║  🏢 FRANCHISE SUPPORT      : 3 OUTLETS                   ║
-║  📦 INVENTORY              : 30+ ITEMS                   ║
-║  📚 EMPLOYEE TRAINING      : YES                         ║
-║  📋 SOP IMPLEMENTATION     : YES                         ║
-║  🎯 CANDIDATE INTERVIEWING : YES                         ║
-║  🤝 EMPLOYEE COORDINATION  : YES                         ║
-║  🛡️ QUALITY CONTROL        : YES                         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+                                ╔══════════════════════════════════════════════════════════╗
+                                ║                    EXPERIENCE STATS                      ║
+                                ╠══════════════════════════════════════════════════════════╣
+                                ║                                                          ║
+                                ║  👥 TEAM SUPPORTED         : UP TO 8 EMPLOYEES           ║
+                                ║  🏢 FRANCHISE SUPPORT      : 3 OUTLETS                   ║
+                                ║  📦 INVENTORY              : 30+ ITEMS                   ║
+                                ║  📚 EMPLOYEE TRAINING      : YES                         ║
+                                ║  📋 SOP IMPLEMENTATION     : YES                         ║
+                                ║  🎯 CANDIDATE INTERVIEWING : YES                         ║
+                                ║  🤝 EMPLOYEE COORDINATION  : YES                         ║
+                                ║  🛡️ QUALITY CONTROL        : YES                         ║
+                                ║                                                          ║
+                                ╚══════════════════════════════════════════════════════════╝
 ```
 
 ### 🎮 EXPERIENCE UNLOCKED
@@ -208,19 +208,19 @@ Create a modern digital experience for the food brand and its menu.
 I enjoy identifying practical problems and experimenting with technology to create simple solutions.
 
 ```text
-REAL-WORLD PROBLEM
-        ↓
-     ANALYZE
-        ↓
-   FIND A SIMPLE IDEA
-        ↓
-      BUILD
-        ↓
-      TEST
-        ↓
-     IMPROVE
-        ↓
-USEFUL SOLUTION
+                                                REAL-WORLD PROBLEM
+                                                        ↓
+                                                     ANALYZE
+                                                        ↓
+                                                FIND A SIMPLE IDEA
+                                                        ↓
+                                                      BUILD
+                                                        ↓
+                                                      TEST
+                                                        ↓
+                                                     IMPROVE
+                                                        ↓
+                                                USEFUL SOLUTION
 ```
 
 ---
